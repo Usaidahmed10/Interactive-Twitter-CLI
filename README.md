@@ -22,8 +22,8 @@ A command-line interface (CLI) application that allows users to interact with Tw
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Usaidahmed10/Interactive-Twitter-CLI.git
-   cd Interactive-Twitter-CLI
+   git clone https://github.com/Usaidahmed10/MongoDB-Tweet-Manager.git
+   cd MongoDB-Tweet-Manager
    ```
 
 2. Install the required Python libraries:
@@ -70,7 +70,7 @@ A command-line interface (CLI) application that allows users to interact with Tw
 
 ## File Structure
 
-- `interactive_twitter_cli.py`: Main script containing all functionalities of the application.
+- `tweet-manager.py`: Main script containing all functionalities of the application.
 - `load-json.py`: Script to initialize MongoDB and load data.
 
 ## Contributing
