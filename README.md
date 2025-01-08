@@ -22,7 +22,7 @@ A command-line interface (CLI) application that allows users to interact with Tw
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AhmedZ04/Interactive-Twitter-CLI.git
+   git clone https://github.com/Usaidahmed10/Interactive-Twitter-CLI.git
    cd Interactive-Twitter-CLI
    ```
 
@@ -39,7 +39,7 @@ A command-line interface (CLI) application that allows users to interact with Tw
    ```
    This will create the MongoDB environment, create a `tweets` collection, and load tweets into it from the `db.json` file in batches of 10,000. You should see a success message similar to:
    ```
-   Starting MongoDB server on port 27017 with dbpath: C:\Users\ahmed\MongoDB-Tweet-Manager\mongodb-data-76cacf61
+   Starting MongoDB server on port 27017 with dbpath: C:\Users\<your-name>\MongoDB-Tweet-Manager\mongodb-data-76cacf61
    MongoDB server started successfully.
    Connected to MongoDB on port 27017
    Existing 'tweets' collection dropped.
